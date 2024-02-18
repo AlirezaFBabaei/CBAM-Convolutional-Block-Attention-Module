@@ -28,3 +28,5 @@ Because CBAM is a lightweight and general module, it seamlessly integrates into 
 
 **CBAM integrated with a ResBlock in ResNet:**
 ![CBAM+ResUnet](https://github.com/AlirezaFBabaei/CBAM-Convolutional-Block-Attention-Module/assets/50638445/2cebdc36-d903-47dd-bbb7-b1cce8b3ab9f)
+
+If you're interested in learning more, check out the paper: https://openaccess.thecvf.com/content_ECCV_2018/papers/Sanghyun_Woo_Convolutional_Block_Attention_ECCV_2018_paper.pdf
