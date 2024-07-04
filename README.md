@@ -1,5 +1,5 @@
 # CBAM: Convolutional Block Attention Module
-This repository contains an implementation of the Convolution Block Attention Module (CBAM) using the TensorFlow framework. CBAM is a powerful attention mechanism designed to enhance the performance of convolutional neural networks by adaptively recalibrating feature maps.
+This repository contains an implementation of the Convolution Block Attention Module (CBAM) using the TensorFlow and PyTorch frameworks. CBAM is a powerful attention mechanism designed to enhance the performance of convolutional neural networks by adaptively recalibrating feature maps.
 
 **What is CBAM?**
 
